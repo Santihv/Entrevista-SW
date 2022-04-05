@@ -1,6 +1,6 @@
 /*
 Crear una funcion que reciba un string sin espacios, lo recorra y compare cada uno de los caracteres. La funcion retorna el indice del primer caracter
-no repetido en el string. Si no hay caracteres repetidos, retorna un -1.
+no repetido en el string. Si todos los caracteres están repetidos, retorna un -1.
 */
 
 #include <stdio.h>			
